@@ -1,5 +1,6 @@
-# Kodilla---Module-13.4-Task-1
+# Analysis-of-datastructure
 
-Python / Pandas / Matplotlib / Seaborn
+Python / Jupyter notebook
+libraries: Pandas / Matplotlib / Seaborn
 
 Analizing the data structure and characteristics of "daily-bike-share" dataset.
